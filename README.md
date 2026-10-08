@@ -1,5 +1,5 @@
-# Τὰ πάντα ῥεῖ (everything flows)
+# Τὰ πάντα ῥεῖ
 
-Here I will be writing things I personally find interesting so I can
-keep them in one place and maybe share some personal concerns I may have
-about technology and not only.
+## Άρθρα
+[Η τεχνολογική καριέρα δεν αξίζει άλλο τον κόπο](./posts/2026-10-08-τεχνολογική-καριέρα-δεν-αξίζει-άλλο-τον-κόπο.md)
+[Οι περιπέτειες ενός πολυμαθούς](./posts/2026-10-08-οι-περιπέτειες-ενός-πολυμαθούς.md)
